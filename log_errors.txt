@@ -1,0 +1,3 @@
+ID:P003|pressao:140/90|saturacao:95|temperatura:|Existe um campo vazio
+ID:P002|pressao:130/80|saturacao:98|temperatura:trinta e sete | O valor da temperatura não é um float
+ID:P005|pressao:invalida|saturacao:97|temperatura:37.0 | O valor da pressão não é um inteiro
