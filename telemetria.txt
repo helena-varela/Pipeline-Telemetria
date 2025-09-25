@@ -1,0 +1,7 @@
+ID:P013|pressao:127/80|saturacao:83|temperatura:40
+ID:P001|pressao:185/95|saturacao:89|temperatura:38.1
+ID:P002|pressao:130/80|saturacao:98|temperatura:trinta e sete
+ID:P003|pressao:140/90|saturacao:95|temperatura:
+ID:P004|pressao:120/75|saturacao:99|temperatura:36.8
+ID:P001|pressao:190/100|saturacao:91|temperatura:38.5
+ID:P005|pressao:invalida|saturacao:97|temperatura:37.0
