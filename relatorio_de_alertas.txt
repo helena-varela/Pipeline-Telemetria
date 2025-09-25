@@ -1,0 +1,13 @@
+RELATÓRIO DE PACIENTES EM ESTADO DE ALERTA
+Paciente ID: P013
+Saturação de 83% (abaixo do normal)
+Temperatura de 40.0ºC (febre)
+
+Paciente ID: P001
+Saturação de 89% (abaixo do normal)
+Pressão de 185/95 (hipertensão)
+Temperatura de 38.1ºC (febre)
+Saturação de 91% (abaixo do normal)
+Pressão de 190/100 (hipertensão)
+Temperatura de 38.5ºC (febre)
+
