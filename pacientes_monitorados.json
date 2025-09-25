@@ -1,0 +1,28 @@
+{
+    "P013": [
+        {
+            "pressao": "127/80",
+            "saturacao": "83",
+            "temperatura": "40"
+        }
+    ],
+    "P001": [
+        {
+            "pressao": "185/95",
+            "saturacao": "89",
+            "temperatura": "38.1"
+        },
+        {
+            "pressao": "190/100",
+            "saturacao": "91",
+            "temperatura": "38.5"
+        }
+    ],
+    "P004": [
+        {
+            "pressao": "120/75",
+            "saturacao": "99",
+            "temperatura": "36.8"
+        }
+    ]
+}
